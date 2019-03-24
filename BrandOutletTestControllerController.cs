@@ -14,6 +14,7 @@ namespace BrandOutlet.Controllers
 {
     public class BrandOutletTestControllerController : Controller
     {
+    //
         private readonly InfoDBEntities _entities = new InfoDBEntities();
         public ActionResult Index()
         {
